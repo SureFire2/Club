@@ -25,7 +25,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-有关详细信息，请参阅 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)。
+有关详细信息，请参阅[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)。
 
 ### Jekyll 主题
 
@@ -33,4 +33,4 @@ Syntax highlighted code block
 
 ### 支持或联系
 
-有网页的问题？查看我们的[文档](https://help.github.com/categories/github-pages-basics/) 或 [联系支持](http://wpa.qq.com/msgrd?v=3&uin=1607766415&site=qq&menu=yes)，我们将帮助您解决问题。
+有网页的问题？查看我们的[文档](https://help.github.com/categories/github-pages-basics/)或[联系支持](http://wpa.qq.com/msgrd?v=3&uin=1607766415&site=qq&menu=yes)，我们将帮助您解决问题。
