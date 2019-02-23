@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### 支持或联系
 
-有网页的问题？查看我们的[文档](https://help.github.com/categories/github-pages-basics/) or 或[联系支持](http://wpa.qq.com/msgrd?v=3&uin=1607766415&site=qq&menu=yes) and we’ll help you sort it out.，我们将帮助您解决问题。
+有网页的问题？查看我们的[文档](https://help.github.com/categories/github-pages-basics/) 或 [联系支持](http://wpa.qq.com/msgrd?v=3&uin=1607766415&site=qq&menu=yes)，我们将帮助您解决问题。
